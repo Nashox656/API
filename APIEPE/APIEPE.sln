@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIEPE", "APIEPE\APIEPE.csproj", "{FCAC997C-1E74-4588-A962-4561FBA855B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIEPE.DATA", "APIEPE.DATA\APIEPE.DATA.csproj", "{CF308F3B-9396-474A-8B3F-1D6D864B0741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIEPE.Model", "APIEPE.Model\APIEPE.Model.csproj", "{A25910EE-33D9-4E48-B442-83CE5C9C2375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAC997C-1E74-4588-A962-4561FBA855B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAC997C-1E74-4588-A962-4561FBA855B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAC997C-1E74-4588-A962-4561FBA855B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAC997C-1E74-4588-A962-4561FBA855B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF308F3B-9396-474A-8B3F-1D6D864B0741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF308F3B-9396-474A-8B3F-1D6D864B0741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF308F3B-9396-474A-8B3F-1D6D864B0741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF308F3B-9396-474A-8B3F-1D6D864B0741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25910EE-33D9-4E48-B442-83CE5C9C2375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25910EE-33D9-4E48-B442-83CE5C9C2375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25910EE-33D9-4E48-B442-83CE5C9C2375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25910EE-33D9-4E48-B442-83CE5C9C2375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B932A787-9C4C-4059-9556-87AC0C369E2A}
+	EndGlobalSection
+EndGlobal

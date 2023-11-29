@@ -8,9 +8,6 @@ namespace Camioneros.Data
 {
     public class MySQLConfiguration
     {
-        public MySQLConfiguration()
-        {
-        }
 
         public MySQLConfiguration(string connectionString) 
         { 
